@@ -1,0 +1,77 @@
+		body{
+			background-color: #f2f2f2;
+			font-size: 18px;
+		}
+
+		.main{
+			background: white url(images/white_background_1.jpg) no-repeat right top;
+			border: 2px solid black;
+			font-size: 80%;
+
+			width: auto;
+
+			padding: 10px 40px;
+			margin: 10px 50px 10px 360px;
+
+
+		}
+
+		.contact{
+			border: 2px solid black;
+			background-color: white;
+			font-size: 80%;
+
+			width: 250px;
+
+			padding: 10px 40px;
+			margin: 0px 10px 10px 10px ;
+
+			float: left;
+
+		}
+
+		.footer{
+			clear: left;
+
+		}
+
+		#allcontent{
+			width: 800px;
+			padding-top: 5px;
+			padding-bottom: 5px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		ul {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+			background-color: #d9d9d9;
+		}
+
+		li {
+			font-size: 100%;
+			font-style: bold;
+			padding-right: 10px;
+			float: left;
+		}
+
+		li a {
+			display: inline-block;
+			color: black;
+			text-align: center;
+			padding: 14px 16px;
+			text-decoration: none;
+		}
+
+		li a:hover {
+			background-color: #4da6ff;
+		}
+
+		.active {
+			background-color: #4da6ff;
+		}
+
+
